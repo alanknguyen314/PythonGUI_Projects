@@ -1,5 +1,11 @@
-# Importing everything from tkinter module. Import tkinter.fot as font in order to change font later.
+# GUI Project #1
+# Name: Nguyen K. Nguyen (Other name(s): Alan), Boston University, 14th APR 2020.
+# This Project is a calculator, basically can perform the four basic operations (+, -, * and /) with integers.
+# Libraries/Modules used: Tkinter.
 
+''' Here is the source code. Enjoy ''' 
+
+# Importing everything from tkinter module. Import tkinter.fot as font in order to change font later.
 from tkinter import *
 import tkinter.font as font
 
